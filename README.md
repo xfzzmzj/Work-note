@@ -1,6 +1,9 @@
 # Work-note
 Work-note
 
+# Entity Franmework系列教程汇总
+[Entity Franmework系列教程汇总](https://www.cnblogs.com/wyy1234/p/9650759.html)
+
 MarkDown
 stack overflow
 reddit 
