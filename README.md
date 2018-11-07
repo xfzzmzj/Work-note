@@ -1,6 +1,8 @@
 # Work-note
 Work-note
 
+CodePlex  
+
 # Entity Franmework系列教程汇总
 [Entity Franmework系列教程汇总](https://www.cnblogs.com/wyy1234/p/9650759.html)
 
